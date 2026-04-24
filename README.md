@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Himanshu Chaudhary
 
-<img src="https://avatars.githubusercontent.com/u/140421010?s=400&u=ac48262597fe9724e6a40caf56d9b829a4cb3ae2&v=4" width="150" style="border-radius:50%" />
-
 ## 🚀 Full Stack .NET Developer (4.6+ Years Experience)
 
 💼 Currently working as **MVC Developer at Global Opportunities**  
